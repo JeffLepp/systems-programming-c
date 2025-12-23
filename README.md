@@ -2,7 +2,7 @@
 
 This directory contains multiple standalone systems programming projects written
 in C. Each subdirectory is an independent project with its own build and run
-instructions. Written during Fall of 2025.
+instructions. Written during Fall of 2025 for my systems course.
 
 The projects focus on core operating systems and networking concepts, including:
 - Filesystem data structures
