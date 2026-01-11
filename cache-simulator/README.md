@@ -9,11 +9,14 @@ Build:
 make
 
 Run:
+```
 ./cachesim -s <s> -E <E> -b <b> -t <tracefile>
-
+```
+```
 Options:
 -s  number of set index bits
 -E  number of lines per set
 -b  number of block offset bits
 -t  path to trace file
 -v  enable verbose output
+```
